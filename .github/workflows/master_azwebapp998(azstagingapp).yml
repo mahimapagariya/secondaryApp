@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'azwebapp998'
           slot-name: 'AzStagingApp'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4C064E9BAC4438F85DE99E5E7EFDFE6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D79CD1C360D24558B47BBE92D8512355 }}
           package: .
